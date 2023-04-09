@@ -1,3 +1,4 @@
+
 # CurrencyConverter
 A Currency Converter GUI App using python library Tkinter
 python 3.x
@@ -10,3 +11,5 @@ This essentially means that the user might not need to explicitly install the Tk
 To verify this, run the following command inside the Command Prompt:
 
 python -m tkinter
+
+![demo](https://user-images.githubusercontent.com/29086241/230776655-c0f83d24-f8c1-4d10-9fa0-00ac78f78e0c.png)
